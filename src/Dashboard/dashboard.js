@@ -44,7 +44,7 @@ class Dashboard extends React.Component {
 
   handleClick = () => {
 
-    history.push('/signup')
+    history.push('/Editor')
   }
 
   render() {

@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+/* global google */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
