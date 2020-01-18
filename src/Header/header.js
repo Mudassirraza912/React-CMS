@@ -165,8 +165,9 @@ export default function PrimarySearchAppBar(props) {
         <Select
           style={{backgroundColor:'#EFEFEF', width: "100%"}}
           disableUnderline
-          labelId="demo-simple-select-label"
-          id="demo-simple-select"
+          defaultValue="Ten"
+          // labelId="demo-simple-select-label"
+          // id="demo-simple-select"
           value={Age}
           onChange={handleChangeAge}
         >

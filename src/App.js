@@ -12,8 +12,8 @@ class App extends React.Component {
 render() {
   return (
     <div className="App">
-      {/* <Routes /> */}
-      <UserMap />
+      <Routes />
+      {/* <UserMap /> */}
       {/* <User /> */}
     </div>
   );
